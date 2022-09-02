@@ -1,4 +1,4 @@
-## 🤓Olá, Eu sou o Silvio Santos !
+## 🤓 Olá, Eu sou o Silvio Santos !
 
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando DevOps Cloud
