@@ -1,6 +1,6 @@
 ## 🤓 Olá, Eu sou o Silvio Santos !
 
-- 🔭 Hoje trabalho como Analista de Suporte
+- 🔭 Hoje trabalho como Analista
 - 🌱 Estudando DevOps Cloud
 - 🌍 São Paulo, SP - 27 Anos
 - ☕ Apaixonado por programação
