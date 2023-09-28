@@ -2,9 +2,9 @@
 
 - 🔭 Hoje trabalho como Analista
 - 🌱 Estudando DevOps Cloud
-- 🌍 São Paulo, SP - 27 Anos
+- 🌍 São Paulo, SP - 28 Anos
 - ☕ Apaixonado por programação
-- ⌨ Estou cursando **Ciências da Computação**, 3º Semestre.
+- ⌨ Estou cursando **Ciências da Computação**, 4º Semestre.
 
 <div align="center">
   <a href="https://github.com/silvio-santos">
